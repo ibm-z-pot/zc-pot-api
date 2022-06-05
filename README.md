@@ -1,2 +1,2 @@
-# zc-api-00
+# zc-pot-api
 IBM z/OS Connect PoT - Student API
